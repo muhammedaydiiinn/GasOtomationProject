@@ -30,7 +30,7 @@ Bu proje, NTP dersi kapsamında dönem projesi olarak yapılmıştır.Aşağıda
 Projeyi inceleyerek geri bildirimlerde bulunabilir veya sorularınızı [GitHub](https://github.com/muhammedaydiiinn/GasOtomationProject) üzerinden iletebilirsiniz.
 
 
-#English
+# English
 
 # Gas Station Automation Project
 
