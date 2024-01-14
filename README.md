@@ -17,7 +17,8 @@ Bu proje, NTP dersi kapsamında dönem projesi olarak yapılmıştır.Aşağıda
   - Şifre: 1234
 https://github.com/muhammedaydiiinn/GasOtomationProject/blob/main/Screenshot/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-01-14%20230624.png
 
-<img src="[https://github.com/Ardacanuysal/GasSatation_Otomation/blob/main/Screenshoot/Screenshoot/Login.png?raw=true](https://github.com/muhammedaydiiinn/GasOtomationProject/blob/main/Screenshot/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-01-14%20230624.png)" width="100%"  />
+<img src="https://github.com/muhammedaydiiinn/GasOtomationProject/blob/main/Screenshoot/Giris.png?raw=true" width="100%"  />
+<img src="https://github.com/muhammedaydiiinn/GasOtomationProject/blob/main/Screenshoot/PerAdd.png?raw=true" width="100%"  />
 ## Kullanım
 
 1. Giriş ekranında yönetici girişi seçeneğiyle admin hesabı ile giriş yapın.
