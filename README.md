@@ -16,7 +16,7 @@ Bu proje, NTP dersi kapsamında dönem projesi olarak yapılmıştır.Aşağıda
   - Kullanıcı Adı: admin
   - Şifre: 1234
 <img src="https://github.com/muhammedaydiiinn/GasOtomationProject/blob/main/Screenshoot/Giris.png?raw=true" width="100%"  />
-<img src="https://github.com/muhammedaydiiinn/GasOtomationProject/blob/main/Screenshoot/PerAdd.png?raw=true" width="100%"  />
+<img src="https://github.com/muhammedaydiiinn/GasOtomationProject/blob/main/Screenshoot/perAdd.png?raw=true" width="100%"  />
 ## Kullanım
 
 1. Giriş ekranında yönetici girişi seçeneğiyle admin hesabı ile giriş yapın.
